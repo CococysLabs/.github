@@ -170,14 +170,3 @@ El contenido de CococysLabs está desarrollado con fines educativos para la comu
 
 ---
 
-<div align="center">
-  
-  ### 🌟 ¡Únete a nosotros!
-  
-  **Hecho con ❤️ por estudiantes, para estudiantes**
-  
-  ![USAC](https://img.shields.io/badge/🇬🇹-Universidad%20de%20San%20Carlos-blue?style=flat-square)
-  
-  [⭐ Star](https://github.com/CococysLabs) • [🍴 Fork](https://github.com/CococysLabs) • [📧 Contacto](mailto:cococys@ingenieria.usac.edu.gt)
-  
-</div>
