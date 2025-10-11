@@ -1,125 +1,183 @@
-# 🦊 CococysLabs
+# 🦉 CococysLabs
 
-> Consolidación de Conocimiento en Ciencias y Sistemas
-
-## Sobre Nosotros
-
-**CococysLabs** es la organización oficial para la implementación de la **Metodología COCOCYS** (Consolidación de Conocimiento en Ciencias y Sistemas) en la Escuela de Ciencias y Sistemas de la Universidad de San Carlos de Guatemala.
-
-Somos un laboratorio de innovación educativa enfocado en mejorar la calidad de la enseñanza mediante la creación, revisión y actualización continua de contenidos educativos estandarizados.
-
-## Misión
-
-Garantizar un nivel educativo alto y consistente en el área profesional de Ingeniería en Ciencias y Sistemas a través de:
-
-- Enseñanza unificada y estandarizada
-- Actualización continua de contenidos
-- Desarrollo de materiales educativos innovadores
-- Consolidación sistemática del conocimiento
-
-## Metodología COCOCYS
-
-Nuestra metodología consta de 4 etapas principales:
-
-### 1️. Actualización del Contenido Semestral
-**Responsable:** Auxiliares del Laboratorio
-
-Análisis de contexto, definición de metas, diseño curricular y desarrollo de recursos educativos innovadores.
-
-### 2️. Análisis y Revisión
-**Responsable:** Catedráticos
-
-Revisión exhaustiva de los recursos educativos para asegurar calidad académica y alineación con objetivos.
-
-### 3️. Aprobación de la Coordinación
-**Responsable:** Coordinador del Área
-
-Validación final de materiales mediante matriz de evaluación y emisión de aprobación oficial.
-
-### 4️. Implementación y Mejora Continua
-**Responsable:** Auxiliares del Laboratorio
-
-Implementación en plataforma UEDI, monitoreo de efectividad y ajustes basados en resultados.
-
-## Áreas de Conocimiento
-
-Organizamos nuestros proyectos y recursos en tres áreas principales:
-
-### Computación
-Arquitectura de computadores, redes, sistemas operativos, inteligencia artificial, compiladores y lenguajes formales.
-
-### Sistemas
-Teoría de sistemas, modelación y simulación, sistemas organizacionales, investigación y lógica de sistemas.
-
-### Software
-Análisis y diseño, estructuras de datos, programación, bases de datos y desarrollo de software avanzado.
-
-## Repositorios Principales
-
-### [usac-projects-library](https://github.com/CococysLabs/usac-projects-library)
-Biblioteca organizada de proyectos académicos por semestre, curso y área de conocimiento. Documentación completa de proyectos desarrollados siguiendo la metodología COCOCYS.
-
-### [.github](https://github.com/CococysLabs/.github)
-Configuración organizacional, workflows compartidos y templates para estandarización de procesos.
-
-## Indicadores de Calidad
-
-Medimos el impacto de COCOCYS mediante:
-
-- Tasa de aprobación de estudiantes
-- Satisfacción de participantes (estudiantes, auxiliares, catedráticos)
-- Calidad de contenidos educativos
-- Efectividad del proceso de enseñanza
-- Innovación y adaptación tecnológica
-
-## Participantes
-
-### Auxiliares del Laboratorio
-Desarrollan recursos educativos innovadores, actualizan contenidos y estructuran cursos en plataforma UEDI.
-
-### Catedráticos
-Revisan y validan materiales, aseguran calidad académica y brindan retroalimentación constructiva.
-
-### Coordinadores del Área
-Aprueban contenidos finales, mantienen estándares académicos y guían el proceso de mejora continua.
-
-### Estudiantes
-Beneficiarios principales, reciben educación estandarizada y de alta calidad con recursos innovadores.
-
-## Beneficios Clave
-
-- **Aprendizaje Activo:** Metodología que promueve participación y práctica constante
-- **Contenidos Actualizados:** Alineados con tendencias tecnológicas y demandas del mercado
-- **Evaluación Continua:** Feedback inmediato para mejorar el aprendizaje
-- **Estandarización:** Calidad consistente en todos los cursos del área
-- **Innovación:** Uso de herramientas tecnológicas modernas y recursos interactivos
-
-## Herramientas y Tecnologías
-
-- **Plataforma UEDI (Moodle)** para gestión de cursos
-- **Herramientas IA** para creación de contenido (ChatGPT, Gemini, Gamma)
-- **GitHub** para control de versiones y colaboración
-- **YouTube** para contenido audiovisual educativo
-- **Simuladores y laboratorios virtuales**
-
-## Contacto
-
-- **Email:** cococys@ingenieria.usac.edu.gt
-- **GitHub:** [@CococysLabs](https://github.com/CococysLabs)
-- **Institución:** Escuela de Ciencias y Sistemas - FIUSAC
-
-## Universidad de San Carlos de Guatemala
-
-- **Facultad:** Ingeniería
-- **Escuela:** Ciencias y Sistemas
-- **Programa:** Ingeniería en Ciencias y Sistemas
+<div align="center">
+  
+  ![COCOCYS](https://img.shields.io/badge/Metodología-COCOCYS-orange?style=for-the-badge)
+  ![USAC](https://img.shields.io/badge/Universidad-San%20Carlos-0066cc?style=for-the-badge)
+  ![Estudiantes](https://img.shields.io/badge/Estudiantes-Ingeniería-green?style=for-the-badge)
+  
+  ### Consolidación de Conocimiento en Ciencias y Sistemas
+  
+  *Democratizando el conocimiento en Ingeniería de Sistemas*
+  
+  Universidad de San Carlos de Guatemala | Facultad de Ingeniería
+  
+  [🌐 Visitar Organización](https://github.com/CococysLabs) • [📧 Contacto](mailto:cococys@ingenieria.usac.edu.gt)
+  
+</div>
 
 ---
 
-<p align="center">
-  <strong>Consolidando conocimiento, construyendo futuro 🚀</strong>
-</p>
+## 🎯 Nuestra Misión
 
-<p align="center">
-  <em>Metodología COCOCYS v1.0 - 2025</em>
-</p>
+Facilitar el aprendizaje colaborativo y la consolidación de conocimientos académicos en Ingeniería en Ciencias y Sistemas mediante la metodología COCOCYS, creando recursos educativos de calidad accesibles para toda la comunidad estudiantil.
+
+## 📚 ¿Qué es COCOCYS?
+
+**COCOCYS** (Consolidación de Conocimiento en Ciencias y Sistemas) es una metodología educativa estructurada que organiza el aprendizaje en ciclos iterativos:
+
+### Los 4 Pilares de COCOCYS
+
+1. **📋 Metodología** - Marco de trabajo y plantillas estructuradas
+2. **📖 Contenido** - Material teórico organizado y curado
+3. **💡 Ejemplos** - Casos prácticos y aplicaciones reales
+4. **✅ Evaluación** - Retroalimentación continua y mejora
+
+---
+
+## 🗂️ Nuestros Repositorios
+
+### 🎓 Áreas de Conocimiento
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🗄️ Bases de Datos
+**[cococys-bases-datos](https://github.com/CococysLabs/cococys-bases-datos)**
+
+Diseño, modelado y gestión de bases de datos relacionales y NoSQL.
+
+- Teoría de bases de datos
+- SQL y optimización de queries
+- Diseño de esquemas
+- Ejercicios prácticos
+
+</td>
+<td width="50%">
+
+#### ⚙️ Teoría de Sistemas
+**[cococys-sistemas](https://github.com/CococysLabs/cococys-sistemas)**
+
+Análisis, diseño y modelación de sistemas complejos.
+
+- Teoría general de sistemas
+- Modelación y simulación
+- Sistemas organizacionales
+- Seminarios de investigación
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💻 Ingeniería de Software
+**[cococys-software](https://github.com/CococysLabs/cococys-software)**
+
+Desarrollo de software desde fundamentos hasta arquitectura avanzada.
+
+- Fundamentos de programación
+- Estructuras de datos
+- Algoritmos
+- Ingeniería de software avanzada
+
+</td>
+<td width="50%">
+
+#### 🖥️ Ciencias de la Computación
+**[cococys-computacion](https://github.com/CococysLabs/cococys-computacion)**
+
+Arquitectura, redes, inteligencia artificial y compiladores.
+
+- Arquitectura de computadoras
+- Redes y comunicaciones
+- Inteligencia artificial
+- Lenguajes y compiladores
+
+</td>
+</tr>
+</table>
+
+### 📋 Metodología
+
+**[cococys-metodologia](https://github.com/CococysLabs/cococys-metodologia)**
+
+Plantillas, guías y documentación del proceso educativo COCOCYS.
+
+---
+
+## 🤝 Cómo Contribuir
+
+¡Tu conocimiento puede ayudar a miles de estudiantes! Aquí está cómo contribuir:
+
+### 🚀 Proceso Rápido
+
+```bash
+# 1. Haz fork del repositorio que quieras mejorar
+# 2. Clona tu fork
+git clone https://github.com/TU_USUARIO/nombre-repo.git
+
+# 3. Crea una rama para tu contribución
+git checkout -b feature/mi-aporte
+
+# 4. Realiza tus cambios y commit
+git commit -m "feat: agregar ejercicios de SQL avanzado"
+
+# 5. Push a tu fork
+git push origin feature/mi-aporte
+
+# 6. Crea un Pull Request en GitHub
+```
+
+### ✅ ¿Qué puedes aportar?
+
+- 📝 **Contenido teórico** - Apuntes, resúmenes, explicaciones
+- 💻 **Código de ejemplo** - Implementaciones, proyectos
+- 🎓 **Ejercicios** - Problemas resueltos, prácticas
+- 📊 **Recursos** - Diagramas, presentaciones, videos
+- 🐛 **Correcciones** - Errores, mejoras, actualizaciones
+
+---
+
+## 🎓 Para Estudiantes
+
+### 🔍 ¿Cómo usar estos recursos?
+
+1. **Explora** los repositorios por área de interés
+2. **Lee** el contenido teórico en la carpeta `/teoria`
+3. **Practica** con los ejercicios en `/ejercicios`
+4. **Implementa** los proyectos en `/proyectos`
+5. **Consulta** recursos adicionales en `/recursos`
+
+---
+
+## 📞 Contacto y Soporte
+
+### 📧 Email
+**cococys@ingenieria.usac.edu.gt**
+
+### 🐛 Reportar Problemas
+Usa los **Issues** en cada repositorio para reportar errores o sugerir mejoras.
+
+### 💬 Discusiones
+Usa las **Discussions** para hacer preguntas y conectar con otros estudiantes.
+
+---
+
+## 📄 Licencia
+
+El contenido de CococysLabs está desarrollado con fines educativos para la comunidad de la Universidad de San Carlos de Guatemala.
+
+---
+
+<div align="center">
+  
+  ### 🌟 ¡Únete a nosotros!
+  
+  **Hecho con ❤️ por estudiantes, para estudiantes**
+  
+  ![USAC](https://img.shields.io/badge/🇬🇹-Universidad%20de%20San%20Carlos-blue?style=flat-square)
+  
+  [⭐ Star](https://github.com/CococysLabs) • [🍴 Fork](https://github.com/CococysLabs) • [📧 Contacto](mailto:cococys@ingenieria.usac.edu.gt)
+  
+</div>
