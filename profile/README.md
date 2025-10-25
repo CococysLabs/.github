@@ -43,19 +43,6 @@ Facilitar el aprendizaje colaborativo y la consolidación de conocimientos acad�
 <tr>
 <td width="50%">
 
-#### 🗄️ Bases de Datos
-**[cococys-bases-datos](https://github.com/CococysLabs/cococys-bases-datos)**
-
-Diseño, modelado y gestión de bases de datos relacionales y NoSQL.
-
-- Teoría de bases de datos
-- SQL y optimización de queries
-- Diseño de esquemas
-- Ejercicios prácticos
-
-</td>
-<td width="50%">
-
 #### ⚙️ Teoría de Sistemas
 **[cococys-sistemas](https://github.com/CococysLabs/cococys-sistemas)**
 
