@@ -156,14 +156,14 @@ Plantillas, guías y documentación del proceso educativo COCOCYS.
 
 | 📘 Curso | 🔗 Repositorio |
 | :--- | :--- |
-| 90 · Programación de Computadoras 1 | [90-Programacion-de-Computadoras-1_Ejemplos](https://github.com/CococysLabs/90-Programacion-de-Computadoras-1) |
-| 92 · Programación de Computadoras 2 | [92-Programacion-de-Computadoras-2_Ejemplos](https://github.com/CococysLabs/92-Programacion-de-Computadoras-2) |
+| 90 · Programación de Computadoras 1 | [90-Programacion-de-Computadoras-1](https://github.com/CococysLabs/90-Programacion-de-Computadoras-1) |
+| 92 · Programación de Computadoras 2 | [92-Programacion-de-Computadoras-2](https://github.com/CococysLabs/92-Programacion-de-Computadoras-2) |
 | 283 · Análisis y Diseño de Sistemas 1 | [283-Analisis-y-Diseno-de-Sistemas-1](https://github.com/CococysLabs/283-Analisis-y-Diseno-de-Sistemas-1) |
-| 667 · Programación Comercial 1 | [667_Programacion-Comercial-1_Ejemplos](https://github.com/CococysLabs/667_Programacion-Comercial-1) |
-| 768 · Introducción a los Algoritmos y Flujo de Datos | [768-Introduccion-a-los-Algoritmos-y-Flujo-de-Datos_Ejemplos](https://github.com/CococysLabs/768-Introduccion-a-los-Algoritmos-y-Flujo-de-Datos) |
-| 770 · Introducción a la Programación y Computación 1 | [770-Introduccion-a-la-Programacion-y-Computacion-1_Ejemplos](https://github.com/CococysLabs/770-Introduccion-a-la-Programacion-y-Computacion-1) |
-| 771 · Introducción a la Programación y Computación 2 | [771-Introduccion-a-la-Programacion-y-Computacion-2_Ejemplos](https://github.com/CococysLabs/771-Introduccion-a-la-Programacion-y-Computacion-2) |
-| 772 · Estructuras de Datos | [772_Estructuras-de-Datos_Ejemplos](https://github.com/CococysLabs/772_Estructuras-de-Datos) |
+| 667 · Programación Comercial 1 | [667_Programacion-Comercial-1](https://github.com/CococysLabs/667_Programacion-Comercial-1) |
+| 768 · Introducción a los Algoritmos y Flujo de Datos | [768-Introduccion-a-los-Algoritmos-y-Flujo-de-Datos](https://github.com/CococysLabs/768-Introduccion-a-los-Algoritmos-y-Flujo-de-Datos) |
+| 770 · Introducción a la Programación y Computación 1 | [770-Introduccion-a-la-Programacion-y-Computacion-1](https://github.com/CococysLabs/770-Introduccion-a-la-Programacion-y-Computacion-1) |
+| 771 · Introducción a la Programación y Computación 2 | [771-Introduccion-a-la-Programacion-y-Computacion-2](https://github.com/CococysLabs/771-Introduccion-a-la-Programacion-y-Computacion-2) |
+| 772 · Estructuras de Datos | [772_Estructuras-de-Datos](https://github.com/CococysLabs/772_Estructuras-de-Datos) |
 | 773 · Manejo e Implementación de Archivos | [773-Manejo-e-Implementacion-de-Archivos](https://github.com/CococysLabs/773-Manejo-e-Implementacion-de-Archivos) |
 | 774 · Base de Datos 1 | [774-Base-de-Datos-1](https://github.com/CococysLabs/774-Base-de-Datos-1) |
 | 775 · Base de Datos 2 | [775-Base-de-Datos-2](https://github.com/CococysLabs/775-Base-de-Datos-2) |
